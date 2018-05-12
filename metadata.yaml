@@ -1,0 +1,29 @@
+_repo: Epidemics-Examined-and-Explained--or-Living-Germs-Proved-by-Analogy-to-be-a-Source-of-Disease_34603
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Grove, John
+    birthdate: 1815
+    deathdate: 1895
+    gutenberg_agent_id: '37118'
+    url: http://www.gutenberg.org/2009/agents/37118
+description: ''
+gutenberg_issued: '2010-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34603'
+  lccn: 07035850
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RA'
+- !lcsh 'Epidemics'
+- !lcsh 'Germ theory of disease'
+title: 'Epidemics Examined and Explained: or, Living Germs Proved by Analogy to be
+  a Source of Disease'
+url: http://www.gutenberg.org/ebooks/34603
